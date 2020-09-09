@@ -1,0 +1,23 @@
+.page-header {
+    height: 10rem;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-bottom: 1px solid #ccc;
+    background: var(--color-primary);
+    z-index: 2;
+}
+
+.top-bar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.back {
+    height: 5rem;
+    position: relative;
+    left: 5rem;
+}
