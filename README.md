@@ -6,9 +6,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install/#windows-stable), [Node.js](https://nodejs.org/en/). Opcional [Git](https://git-scm.com). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Rodando a Aplicação
 
 ```bash
+### 🎲 Rodando o Back End (servidor)
 # Clone este repositório ou baixe ele pelo site
 $ git clone <https://github.com/ogawaluan/SearchForm>
 
@@ -27,6 +28,8 @@ $ cd backend
 
 # Inicie o servidor backend com o comando
 $ yarn dev
+
+### 🎲 Rodando o Front End
 
 # Em outro terminal/cmd:
 
