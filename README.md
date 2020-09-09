@@ -48,4 +48,5 @@ O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 
 # Para buscar as pesquisas já realizadas, escrever na url: localhost:3000/formShow. 
 Quando entrar na página, clicar com botão direito do mouse na página, 
-selecionar a opção de inspecionar elementos e na aba console vai estar as informações das quantias de cada opção da pesquisa.
+selecionar a opção de inspecionar elementos e na aba console 
+vai estar as informações das quantias de cada opção da pesquisa.
